@@ -26,7 +26,8 @@
 - 🔭 Currently building algorithmic projects in Java and sharpening my MERN stack skills
 - 🎯 **Looking for:** MERN stack and AI/ML opportunities
 - 📍 Based in **Coimbatore, India**
-- ⚡ **Fun fact:** I kept a **50+ day LeetCode streak** and built an AI recipe agent at the Amrita Nitrostack Hackathon with team *The Glitch Grinders*
+<!--- ⚡ **Fun fact:** I kept a **50+ day LeetCode streak** and -->
+Built an AI recipe agent at the Amrita Nitrostack Hackathon with team *The Glitch Grinders*
 
 ---
 
@@ -109,7 +110,7 @@ An **AI-powered recipe agent** built during the Amrita University Coimbatore Hac
 ## 🏆 Achievements & Certifications
 
 <!-- Add new achievements to this list -->
-- 🔥 **LeetCode:** Maintained a **50+ day coding streak**, showing consistent DSA practice
+<!--- 🔥 **LeetCode:** Maintained a **50+ day coding streak**, showing consistent DSA practice-->
 - 💼 **Internship:** Completed a Full Stack Development internship at **Thiranex** (Certificate ID: THX-AUG2326-003)
 - 🏁 **Hackathon:** Built an **AI-powered recipe agent** at the **Amrita University Coimbatore Hackathon (Nitrostack)** with team *The Glitch Grinders* ([Verify Certificate](https://nitrostack.ai/university/6a54bc7ccc0a343237365fb3/certificate/6a61ff53a2ff72e57cd8b1a7))
 - 🧠 **Competition:** Participated in the **Tata Crucible Campus Quiz 2025**
