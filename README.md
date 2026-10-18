@@ -10,8 +10,8 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=nikhilreddybikkam&label=Profile%20Views&color=0e75b6&style=flat)
-![Followers](https://img.shields.io/github/followers/nikhilreddybikkam?style=flat&logo=github&label=Followers)
+
+
 
 </div>
 
